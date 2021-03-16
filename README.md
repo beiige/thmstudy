@@ -3,25 +3,25 @@
     ⏳ = In progress.
     🔴 = Stopped, depends on other tasks, depends on knowledge from other rooms.
 # Level 1 - Intro
-- [👍 ] OpenVPN https://tryhackme.com/room/openvpn
-- [👍 ] Welcome https://tryhackme.com/jr/welcome
-- [👍 ] Intro to Researching https://tryhackme.com/room/introtoresearch
-- [👍 ] The Hacker Methodology https://tryhackme.com/room/hackermethodology
-- [ 👍] Learn Linux https://tryhackme.com/module/linux-fundamentals
-- [👍 ] Crash Course Pentesting https://tryhackme.com/room/ccpentesting
+- [👍] OpenVPN https://tryhackme.com/room/openvpn
+- [👍] Welcome https://tryhackme.com/jr/welcome
+- [👍] Intro to Researching https://tryhackme.com/room/introtoresearch
+- [👍] The Hacker Methodology https://tryhackme.com/room/hackermethodology
+- [👍] Learn Linux https://tryhackme.com/module/linux-fundamentals
+- [👍] Crash Course Pentesting https://tryhackme.com/room/ccpentesting
 
 **Introductory CTFs to get your feet wet**
 
-- [ 👍] Google Dorking https://tryhackme.com/room/googledorking
-- [ 👍] OHsint https://tryhackme.com/room/ohsint
+- [👍] Google Dorking https://tryhackme.com/room/googledorking
+- [👍] OHsint https://tryhackme.com/room/ohsint
 - [ ] Shodan.io https://tryhackme.com/room/shodan
 
 # Level 2 - Tooling
-- [ 👍] Tmux https://tryhackme.com/room/rptmux
-- [ ⏳] Nmap https://tryhackme.com/room/furthernmap
+- [👍] Tmux https://tryhackme.com/room/rptmux
+- [⏳] Nmap https://tryhackme.com/room/furthernmap
 - [ ] Web Scanning https://tryhackme.com/room/rpwebscanning
 - [ ] Sublist3r https://tryhackme.com/room/rpsublist3r
-- [ ] Metasploit https://tryhackme.com/room/rpmetasploit
+- [👍] Metasploit https://tryhackme.com/room/rpmetasploit
 - [ ] Hydra https://tryhackme.com/room/hydra
 - [ ] Linux Privesc https://tryhackme.com/room/linuxprivesc
 - [ ] Web Scanning https://tryhackme.com/room/rpwebscanning
