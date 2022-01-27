@@ -26,7 +26,7 @@
 - [ ] Linux Privesc https://tryhackme.com/room/linuxprivesc
 - [ ] Web Scanning https://tryhackme.com/room/rpwebscanning
 - [ ] Shodan https://tryhackme.com/room/shodan
-- [ ] RustScan (I invented RustScan so excuse the self-promo) https://tryhackme.com/room/rustscan
+- [ ] RustScan https://tryhackme.com/room/rustscan
 
 **More introductory CTFs**
 - [ ] Vulnversity - https://tryhackme.com/room/vulnversity
